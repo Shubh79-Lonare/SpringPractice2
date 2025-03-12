@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="example10_wiringBeans_usingMethoCall" />
+        <module name="example13_autowireOn_Constructor" />
+        <module name="example11_autowire" />
+        <module name="example_23" />
+        <module name="example_24" />
+        <module name="example_21" />
+        <module name="example_22" />
+        <module name="example_20" />
+        <module name="example17AOP" />
+        <module name="example14_s1" />
+        <module name="example_25" />
+        <module name="example_26" />
+        <module name="practice1" />
+        <module name="practice2" />
+        <module name="PracApplication1" />
+        <module name="Application1" />
+        <module name="practice17AOP" />
+        <module name="practice7" />
+        <module name="example9_wiringBeans_usingMehtoCall" />
+        <module name="practice5" />
+        <module name="example12_autowireOn_SetterMethod" />
+        <module name="example15_EgarSingleTon_Bean" />
+        <module name="example6" />
+        <module name="example16_ProtoTypeScope_Bean" />
+        <module name="example8" />
+        <module name="example3" />
+        <module name="example2" />
+        <module name="example5" />
+        <module name="example17" />
+        <module name="example4" />
+        <module name="example1" />
+        <module name="example_18" />
+        <module name="example_19" />
+        <module name="practice9_wiringBeans_usingMehtoCall" />
+        <module name="Practice_Component" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="example_18" options="-parameters" />
+      <module name="example_19" options="-parameters" />
+      <module name="example_20" options="-parameters" />
+      <module name="example_21" options="-parameters" />
+      <module name="example_22" options="-parameters" />
+      <module name="example_23" options="-parameters" />
+      <module name="example_24" options="-parameters" />
+      <module name="example_25" options="-parameters" />
+      <module name="example_26" options="-parameters" />
+    </option>
+  </component>
+</project>

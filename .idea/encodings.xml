@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Application1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Application1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PracApplication1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PracApplication1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Practice_Component/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Practice_Component/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example10_wiringBeans_using_MehodParam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example10_wiringBeans_using_MehodParam/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example11_autowire/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example11_autowire/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example12_autowireOn_SetterMethod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example12_autowireOn_SetterMethod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example13_autowireOn_Constructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example13_autowireOn_Constructor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example14_s2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example14_s2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example15_EgarSingleTon_Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example15_EgarSingleTon_Bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example16_ProtoTypeScope_Bean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example16_ProtoTypeScope_Bean/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example17/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example17/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example17AOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example17AOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example6/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example8/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example8/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example9_wiringBeans_using_MethodCall/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example9_wiringBeans_using_MethodCall/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_18/example_18/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_19/example_19/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_20/example_20/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_21/example_21/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_22/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_23/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_24/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_25/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/example_26/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice17AOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice17AOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice5/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice7/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/practice9/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

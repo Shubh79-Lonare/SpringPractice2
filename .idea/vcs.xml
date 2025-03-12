@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Application1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PracApplication1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practice_Component/example7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example10_wiringBeans_using_MehodParam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example11_autowire" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example12_autowireOn_SetterMethod" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example13_autowireOn_Constructor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example14_s2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example15_EgarSingleTon_Bean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example16_ProtoTypeScope_Bean" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example17" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example17AOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example8" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example9_wiringBeans_using_MethodCall" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_19/example_19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_20/example_20" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_21/example_21" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_22" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_23" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_24" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_25" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/example_26" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice17AOP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/practice9" vcs="Git" />
+  </component>
+</project>

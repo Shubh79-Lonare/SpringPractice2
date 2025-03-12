@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/example1/pom.xml" />
+        <option value="$PROJECT_DIR$/example2/pom.xml" />
+        <option value="$PROJECT_DIR$/example3/pom.xml" />
+        <option value="$PROJECT_DIR$/example4/pom.xml" />
+        <option value="$PROJECT_DIR$/example5/pom.xml" />
+        <option value="$PROJECT_DIR$/example6/pom.xml" />
+        <option value="$PROJECT_DIR$/example8/pom.xml" />
+        <option value="$PROJECT_DIR$/example17/pom.xml" />
+        <option value="$PROJECT_DIR$/practice1/pom.xml" />
+        <option value="$PROJECT_DIR$/practice2/pom.xml" />
+        <option value="$PROJECT_DIR$/practice5/pom.xml" />
+        <option value="$PROJECT_DIR$/practice7/pom.xml" />
+        <option value="$PROJECT_DIR$/practice9/pom.xml" />
+        <option value="$PROJECT_DIR$/example_18/example_18/pom.xml" />
+        <option value="$PROJECT_DIR$/example_19/example_19/pom.xml" />
+        <option value="$PROJECT_DIR$/example_20/example_20/pom.xml" />
+        <option value="$PROJECT_DIR$/example_21/example_21/pom.xml" />
+        <option value="$PROJECT_DIR$/example_22/pom.xml" />
+        <option value="$PROJECT_DIR$/example_23/pom.xml" />
+        <option value="$PROJECT_DIR$/example_24/pom.xml" />
+        <option value="$PROJECT_DIR$/example_25/pom.xml" />
+        <option value="$PROJECT_DIR$/example_26/pom.xml" />
+        <option value="$PROJECT_DIR$/Application1/pom.xml" />
+        <option value="$PROJECT_DIR$/example14_s2/pom.xml" />
+        <option value="$PROJECT_DIR$/example17AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/practice17AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/PracApplication1/pom.xml" />
+        <option value="$PROJECT_DIR$/example11_autowire/pom.xml" />
+        <option value="$PROJECT_DIR$/Practice_Component/pom.xml" />
+        <option value="$PROJECT_DIR$/example15_EgarSingleTon_Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/example16_ProtoTypeScope_Bean/pom.xml" />
+        <option value="$PROJECT_DIR$/example13_autowireOn_Constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/example12_autowireOn_SetterMethod/pom.xml" />
+        <option value="$PROJECT_DIR$/example9_wiringBeans_using_MethodCall/pom.xml" />
+        <option value="$PROJECT_DIR$/example10_wiringBeans_using_MehodParam/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="18" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
