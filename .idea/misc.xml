@@ -39,6 +39,7 @@
         <option value="$PROJECT_DIR$/example12_autowireOn_SetterMethod/pom.xml" />
         <option value="$PROJECT_DIR$/example9_wiringBeans_using_MethodCall/pom.xml" />
         <option value="$PROJECT_DIR$/example10_wiringBeans_using_MehodParam/pom.xml" />
+        <option value="$PROJECT_DIR$/example_27/pom.xml" />
       </list>
     </option>
   </component>
